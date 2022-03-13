@@ -1,19 +1,21 @@
-<a href="#"><img width="100%" height="auto" src="https://assets.materialup.com/uploads/3c4c9c12-9ff6-4fd4-8b8b-a9f93c5effe4/preview.jpg" height="100px"/></a>
+<p align="center"><a href="#"><img width="500px" height="auto" src="https://assets.materialup.com/uploads/3c4c9c12-9ff6-4fd4-8b8b-a9f93c5effe4/preview.jpg"/></a></p>
 <h1 align="center">Hi 👋, I'm Ibtihal Qomariyyah Luthfiyyah</h1>
-<h3 align="center">An Informatics Engineering student in the second academic year</h3>
+<h3 align="center">An Informatics Engineering Student in The Second Academic Year</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibtihal197&label=Profile%20views&color=0e75b6&style=flat" alt="ibtihal197" /> </p>
 
 <p align="left"> <a href="https://twitter.com/iqluthfiyyah" target="blank"><img src="https://img.shields.io/twitter/follow/iqluthfiyyah?logo=twitter&style=for-the-badge" alt="iqluthfiyyah" /></a> </p>
 
+- 🌱 I’m currently learning **web, statistics, artificial intelligence, software, embedded intelligent system, algorithm design analysis, operating system, etc.**
+
 - 📝 I regularly write articles on [http://iqluthfiyyah.blogspot.com/](http://iqluthfiyyah.blogspot.com/)
 
-- 💬 Ask me about **web, python, sql**
+- 💬 Ask me about **web, math, python, sql**
 
 - 📫 How to reach me **ibtihal.ql@gmail.com**
 
-- ⚡ Fun fact **i like math**
+- ⚡ Fun fact **i love math**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
